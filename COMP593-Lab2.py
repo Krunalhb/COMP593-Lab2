@@ -10,7 +10,7 @@ pizza_dict = {"pizza_toppings": ["pepperoni", "mushroom", "olives"]}
 movies_dict = {"movies": [{"title": "the dark knight", "genre": "action"}, {"title": "the shawshank redemption", "genre": "drama"}]}
 #Step-3
 def main():
-    movies_dict["movies"].append({"title": "Topgun", "genre": "action"})
+    movies_dict["movies"].append({"title": "The Godfather", "genre": "action"})
 if __name__ == "__main__": 
     main()
 #Step-4
